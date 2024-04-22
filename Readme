@@ -1,0 +1,3 @@
+número1 = input ('Primeiro número: ')
+número2 = input ('Segundo número: ')
+print('A soma é: ',int(número13)+int(número2))
